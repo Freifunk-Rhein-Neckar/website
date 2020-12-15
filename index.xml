@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Freifunk Rhein-Neckar</title>
+    <link>https://www.freifunk-rhein-neckar.de/</link>
+    <description>Recent content on Freifunk Rhein-Neckar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Fri, 30 Oct 2020 21:59:00 +0100</lastBuildDate><atom:link href="https://www.freifunk-rhein-neckar.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>virtuelles Communitytreffen (07.11.2020, 15:00)</title>
+      <link>https://www.freifunk-rhein-neckar.de/news/communitytreffen-2020-07-11/</link>
+      <pubDate>Fri, 30 Oct 2020 21:59:00 +0100</pubDate>
+      
+      <guid>https://www.freifunk-rhein-neckar.de/news/communitytreffen-2020-07-11/</guid>
+      <description>Freifunk ist eine tolle Sache und sie lebt davon, dass sich Menschen dafür Zeit nehmen und ehrenamtlich tätig sind.
+In den verschiedenen Freifunk-Communitys in Deutschland gibt es unterschiedliche Konzepte, wie sich diese organisieren. Beim Freifunk Rhein-Neckar ist es aktuell so, das hinter der Community der Freifunk Rhein-Neckar e.V. steht und einen rechtlichen Rahmen für uns bietet und die für den Betrieb essentiellen Server bereitstellt.
+Dieser gemeinnützige Verein braucht aber, neben Mitgliedern, einen Vorstand, der ihn vertritt.</description>
+    </item>
+    
+    <item>
+      <title>Matrix als neues Chatsystem für den FFRN</title>
+      <link>https://www.freifunk-rhein-neckar.de/news/ffrn-matrix-raum/</link>
+      <pubDate>Mon, 03 Aug 2020 12:53:00 +0100</pubDate>
+      
+      <guid>https://www.freifunk-rhein-neckar.de/news/ffrn-matrix-raum/</guid>
+      <description>Zur schnellen Kommunikation innerhalb des Admin Teams verwenden wir nun schon seit einiger Zeit Matrix als internes Chat System. Und auch zur Kommunikation mit dem Vorstand des Freifunk Rhein-Neckar e.V. verwenden wir einen Matrix Raum. Und im großen und ganzen funktioniert das auch eigentlich sehr gut. Jedenfalls besser als unser alter Rocket.Chat unter chat.ffrn.de. Damit gab es leider immer wieder unschöne Probleme. Seien es Probleme beim Update des Servers oder aber der mobile Client.</description>
+    </item>
+    
+    <item>
+      <title>Die Idee</title>
+      <link>https://www.freifunk-rhein-neckar.de/die_idee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.freifunk-rhein-neckar.de/die_idee/</guid>
+      <description>Der Verein Freifunk Rhein-Neckar e.V. ist Teil der Freifunk Initiative, welche sich zum Ziel gesetzt hat ein frei zugängliches, öffentliches und durch Bürger verwaltetes Funknetz (WLAN) aufzubauen und zu betreiben. Jeder kann dieses Netz frei und uneingeschränkt mit seinen Geräten, egal ob PCs, Laptops, Smartphones oder Tablets nutzen. Darüber hinaus hat jeder die Mögichkeit das Netz mit geringem finanziellen Aufwand zu vergrößern indem er ein Gerät (Router) mit einer frei verfügbaren Software (Firmware) bespielt, welche dem Gerät die Möglichkeit gibt, sich wiederum mit anderen Geräten zu verbinden, sodass ein Netz aus diesen Geräten entsteht.</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://www.freifunk-rhein-neckar.de/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.freifunk-rhein-neckar.de/impressum/</guid>
+      <description>Diese Webseite und alle weitere Angebote unter der Domain freifunk-rhein-neckar.de und ffrn.de werden betrieben vom Freifunk Rhein-Neckar e.V. Der Freifunk Rhein-Neckar e.V. ist im Vereinsregister Mannheim unter der Vereinsregisternummer VR 700878 eingetragen.
+Vertretungsberechtigt im Sinne des § 5 Abschnitt 1 TMG und des § 26 BGB ist der Vorstand.
+Vorstand  Vorsitzender: Michel Vorsprach Vorsitzender: Florian Michael Bausch Kassenwart: Jakob Johannes Haufe   Kontakt Anschrift: Freifunk Rhein-Neckar e.V.
+c/o Jakob Haufe</description>
+    </item>
+    
+    <item>
+      <title>Karte</title>
+      <link>https://www.freifunk-rhein-neckar.de/karte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.freifunk-rhein-neckar.de/karte/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>kontakt</title>
+      <link>https://www.freifunk-rhein-neckar.de/kontakt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.freifunk-rhein-neckar.de/kontakt/</guid>
+      <description>Kommunikation ist unser größtes Anliegen also scheue dich nicht, auch wegen kleiner Fragen mit uns Kontakt aufzunehmen.
+Du kannst uns dabei über verschiedene Wege erreichen:
+Kontakt zur Community  Forum Unser Hauptkommunikationskanal ist das Forum. Egal welche Frage du rund um Freifunk, die Hardware, unsere Infrastruktur, die Treffen, Dienste etc. stellen willst, das Forum ist der Richtige Anlaufpunkt. Hier triffst du auf einen großteil der Community, welche dir gerne zur Seite steht!</description>
+    </item>
+    
+    <item>
+      <title>Mitmachen</title>
+      <link>https://www.freifunk-rhein-neckar.de/mitmachen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.freifunk-rhein-neckar.de/mitmachen/</guid>
+      <description>Freifunker zu werden ist ganz einfach! Mit unserer Anleitung wird aus einem passenden WLAN-Router ein sogenannter Freifunk-Knoten.
+ Einen kompatible Router im Laden deiner Wahl kaufen Auf diesem die Freifunk-Software installieren An deinen Internetanschluss anschließen  Dein eigener Router Zuerst brauchst du ein passendes Gerät, auf dem du die Freifunk-Software, die sogenannte Firmware, installieren kannst.
+Unsere Darmstädter Kollegen haben eine schöne Tabelle mit möglichen Geräten zusammengestellt. Diese lassen sich auch alle mit unserer Firmware benutzen.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -87,7 +87,7 @@ $(document).on("usersupdated", function () {
 // + a successfull Ajax request.
 // +---------------------------------------------------------------------------
 app.getCurrentStats = function () {
-  $.get("meshviewer.json", function (json) {
+  $.get("https://www.freifunk-rhein-neckar.de/meshviewer.json", function (json) {
     // json should already be an object. If not, try to parse. 
     if (typeof json === "string") json = JSON.parse(json);
     if (!json || typeof json.nodes === "undefined"){

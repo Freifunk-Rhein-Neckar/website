@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Freifunk Rhein-Neckar</title>
+    <link>https://www.freifunk-rhein-neckar.de/news/</link>
+    <description>Recent content in News on Freifunk Rhein-Neckar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Fri, 30 Oct 2020 21:59:00 +0100</lastBuildDate><atom:link href="https://www.freifunk-rhein-neckar.de/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>virtuelles Communitytreffen (07.11.2020, 15:00)</title>
+      <link>https://www.freifunk-rhein-neckar.de/news/communitytreffen-2020-07-11/</link>
+      <pubDate>Fri, 30 Oct 2020 21:59:00 +0100</pubDate>
+      
+      <guid>https://www.freifunk-rhein-neckar.de/news/communitytreffen-2020-07-11/</guid>
+      <description>Freifunk ist eine tolle Sache und sie lebt davon, dass sich Menschen dafür Zeit nehmen und ehrenamtlich tätig sind.
+In den verschiedenen Freifunk-Communitys in Deutschland gibt es unterschiedliche Konzepte, wie sich diese organisieren. Beim Freifunk Rhein-Neckar ist es aktuell so, das hinter der Community der Freifunk Rhein-Neckar e.V. steht und einen rechtlichen Rahmen für uns bietet und die für den Betrieb essentiellen Server bereitstellt.
+Dieser gemeinnützige Verein braucht aber, neben Mitgliedern, einen Vorstand, der ihn vertritt.</description>
+    </item>
+    
+    <item>
+      <title>Matrix als neues Chatsystem für den FFRN</title>
+      <link>https://www.freifunk-rhein-neckar.de/news/ffrn-matrix-raum/</link>
+      <pubDate>Mon, 03 Aug 2020 12:53:00 +0100</pubDate>
+      
+      <guid>https://www.freifunk-rhein-neckar.de/news/ffrn-matrix-raum/</guid>
+      <description>Zur schnellen Kommunikation innerhalb des Admin Teams verwenden wir nun schon seit einiger Zeit Matrix als internes Chat System. Und auch zur Kommunikation mit dem Vorstand des Freifunk Rhein-Neckar e.V. verwenden wir einen Matrix Raum. Und im großen und ganzen funktioniert das auch eigentlich sehr gut. Jedenfalls besser als unser alter Rocket.Chat unter chat.ffrn.de. Damit gab es leider immer wieder unschöne Probleme. Seien es Probleme beim Update des Servers oder aber der mobile Client.</description>
+    </item>
+    
+  </channel>
+</rss>

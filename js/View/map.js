@@ -28,7 +28,7 @@ app.View.Map = function ($, mapID) {
       }).addTo(map);
 
       // Add a new Control to the Control pane
-      L.easyButton('fa-circle-o-notch',
+      L.easyButton('fas fa-circle-notch',
         toggleCluster,
         'Toggle clustering',
         map
