@@ -1,9 +1,21 @@
 <!DOCTYPE html>
-<html lang='{{ .Site.LanguageCode }}'>
-    {{ partial "head.html" . -}}
-    <body{{ if .IsHome }} id="index" {{- end }}>
-        {{- partial "header.html" . -}}
+<html lang='{{ .Site.LanguageCode }}' class="{{ block "htmlClass" . }}h-100{{ end }}">
+    <head>
+        <meta charset="UTF-8">
+        <title>{{ block "title" . }}{{- if .IsHome -}} {{ .Site.Title }} {{- else }} {{ .Title }} | {{ .Site.Title }} {{- end -}}{{ end }}</title>
+
+        {{ partial "head.html" . -}}
+    </head>
+    <body class="d-flex flex-column h-100">
+        <header>
+            {{ block "navbar" . }}
+            {{ partial "navbar.html" . }}
+            {{ end }}
+        </header>
+
         {{- block "main" . }}{{- end }}
+    {{ if ne .Type "full" }}
         {{- partial "footer.html" . -}}
+    {{ end }}
     </body>
 </html>
