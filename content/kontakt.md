@@ -1,5 +1,5 @@
 +++
-title = "kontakt"
+title = "Kontakt"
 +++
 
 Kommunikation ist unser größtes Anliegen also scheue dich nicht, auch wegen kleiner Fragen mit uns Kontakt aufzunehmen.  
