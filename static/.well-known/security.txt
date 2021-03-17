@@ -1,2 +1,26 @@
+# Great, you found our security.txt ;)
+# please use the listed contacts for all security related problems concerning Freifunk Rhein-Neckar (FFRN)
+
+# our common e-mail address for contacting us (no Encryption available)
 Contact: mailto:security@ffrn.de
-Preferred-Languages: en, de
+Preferred-Languages: de, en
+
+# if you are interested in sending us an encrypted message, please contact us via our private email addresses
+
+Contact: mailto:tom.herbers@ffrn.de
+Encryption: https://ffrn.de/.well-known/openpgpkey/hu/6756usqw5hz9n8bq1tq9chcf5h1gkyhm
+
+
+
+# Canonical URIs (not a complete list)
+Canonical: https://freifunk-rhein-neckar.de/.well-known/security.txt
+Canonical: https://ffrn.de/.well-known/security.txt
+Canonical: https://www.freifunk-rhein-neckar.de/.well-known/security.txt
+
+
+# you can find signatures to verify the integrity under the following URI:
+Signature: https://www.freifunk-rhein-neckar.de/.well-known/security.txt.sig
+
+# If this file is not updated in time, please contact us anyway.
+# You are also welcome to ask for an updated version.
+Expires: Thu, 17 Mar 2022 12:00 +0100
