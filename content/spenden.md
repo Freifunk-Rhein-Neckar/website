@@ -21,7 +21,7 @@ Du kannst uns einmalig, aber auch sehr gerne regelmäßig, Geld auf das folgende
 
 {{< bank >}}
 
-Für Spenden unter 300 € sollte in der Regel keine Zuwendungsbestätigung nötig sein. Wenn Du eine solche benötigst kannst Du dich gerne unter [kassenwart@ffrn.de](mailto:kassenwart@ffrn.de) melden.
+Für Spenden unter 300 € sollte in der Regel keine Zuwendungsbestätigung nötig sein. Wenn Du eine solche benötigst, kannst Du dich gerne unter [kassenwart@ffrn.de](mailto:kassenwart@ffrn.de) melden.
 
 ## Spendenformular
 
