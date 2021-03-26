@@ -3,13 +3,13 @@ title = "Spenden"
 type = "page"
 +++
 
-Wir bieten unser Freifunk Netz kostenlos an. Es besteht also für niemanden eine Zahlungsverplichtung! Diese wird es auch in Zukunkt nicht geben.
+Wir bieten unser Freifunk-Netz kostenlos an. Es besteht also für niemanden eine Zahlungsverpflichtung! Diese wird es auch in Zukunft nicht geben.
 
-Das bedeutet das wir für den Fortbestand unseres Freifunk Netzes auf Sach- und Geldspenden angewiesen sind.
+Das bedeutet das wir für den Fortbestand unseres Freifunk-Netzes auf Sach- und Geldspenden angewiesen sind.
 
 Primärer Kostenpunkt sind aktuell die monatlichen Ausgaben für unsere Server. Diese werden zu einem großen Teil durch die Mitglieder unseres Vereins Freifunk Rhein-Neckar e.V. getragen.
 
-Aber auch um Freifunk Router an Orten aufzustellen wo diese sinvoll sind, sie aber nicht anderweitig finanziert werden können, benötigen wir Mittel. Dies ist zum Beispiel oft bei Flüchtlingsunterkünften der Fall.
+Aber auch um Freifunk-Router an Orten aufzustellen, wo diese sinnvoll sind, sie aber nicht anderweitig finanziert werden können, benötigen wir Mittel. Dies ist zum Beispiel oft bei Flüchtlingsunterkünften der Fall.
 
 Mitgliedsbeiträge sind leider keine Spenden und wir dürfen für solche keine Zuwendungsbestätigungen ausstellen. Du kannst uns aber zum Beispiel gerne einfach über eine regelmäßige Spende unterstützen.
 
