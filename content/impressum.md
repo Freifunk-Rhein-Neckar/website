@@ -9,9 +9,8 @@ Vertretungsberechtigt im Sinne des § 5 Abschnitt 1 TMG und des § 26 BGB ist de
 ## Vorstand
 
 {{% callout %}}
-- **Vorsitzender**: Michel Vorsprach
-- **Vorsitzender**: Florian Michael Bausch
-- **Kassenwart**: Jakob Johannes Haufe
+- **Vorsitzender, Kassenwart**: Jakob Johannes Haufe
+- **Vorsitzender**: Tim Tugendhat
 {{% /callout %}}
 
 
