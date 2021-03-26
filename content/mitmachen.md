@@ -1,5 +1,6 @@
 +++
 title = "Mitmachen"
+url = "/mitmachen/"
 +++
 
 Freifunker zu werden ist ganz einfach! Mit unserer [Anleitung](https://wiki.ffrn.de/Kurzanleitung) wird aus einem passenden WLAN-Router ein sogenannter *Freifunk-Knoten*.
@@ -53,17 +54,3 @@ Neben dem Aufstellen eines Routers kannst du uns auch durch Kontakte und Vermitt
 
 ## Du willst uns persönlich kennenlernen? Genial!
 Wir freuen uns immer über neue Freifunker! Kontaktmöglichkeiten zur Community findest du unter [Kontakt](/kontakt/).
-
-## Spenden
-Gerne freuen wir uns auch über Geldspenden, denn das Freifunk-Netzwerk ist komplett über Spenden finanziert. Du kannst uns über die folgenden Wege Geld zukommen lassen:
-
-### Überweisung
-
-{{< bank >}}
-
-Für eine Spendenbescheinigung wende dich bitte an unseren Kassenwart: kassenwart@ffrn.de
-
-### Spendenformular
-Am einfachsten geht das Spenden aber über unser [Spendenformular bei Betterplace](https://www.betterplace.org/de/projects/20723-freifunk-rhein-neckar-freies-wlan-im-rhein-neckar-gebiet). Dort bekommst du am Ende des Jahres auch automatisch eine Spendenbescheinigung.
-
-{{< betterplace >}}

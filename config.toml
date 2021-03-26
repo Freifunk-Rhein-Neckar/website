@@ -33,6 +33,11 @@ unsafe= true
   weight = 3
 
 [[menu.main]]
+  name = "Spenden"
+  url = "/spenden/"
+  weight = 3
+
+[[menu.main]]
   name = "News"
   url = "https://blog.ffrn.de/"
   # url = "/news/"
