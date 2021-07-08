@@ -39,8 +39,8 @@ unsafe= true
 
 [[menu.main]]
   name = "News"
-  url = "https://blog.ffrn.de/"
-  # url = "/news/"
+  # url = "https://blog.ffrn.de/"
+  url = "/news/"
   weight = 4
 
 [[menu.main]]
@@ -61,11 +61,16 @@ unsafe= true
 
 [[menu.main]]
   name = "Karte"
-  url = "https://map.ffrn.de/"
-  # url = "/karte/"
+  # url = "https://map.ffrn.de/"
+  url = "/karte/"
   weight = 8
 
 [[menu.main]]
   name = "Kontakt"
   url = "/kontakt/"
   weight = 9
+
+[[menu.main]]
+  name = "Impressum"
+  url = "/impressum/"
+  weight = 99
