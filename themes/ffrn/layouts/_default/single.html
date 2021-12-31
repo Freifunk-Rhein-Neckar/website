@@ -2,6 +2,8 @@
 
     {{ if eq .Type "page" }}
         {{ partial "page.html" . }}
+    {{ else if eq .Type "full" }}
+        {{ partial "full.html" . }}
     {{ else }}
         {{ partial "article.html" . }}
     {{ end }}
