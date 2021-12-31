@@ -15,7 +15,7 @@ Du kannst uns dabei über verschiedene Wege erreichen:
 
 <div class="col">
     <h4><i class="fa fa-comments"></i> Chat</h4>
-    <p>Wir verwenden als Chatlösung für den schnellen Kontakt Matrix. Du findest uns beispielsweise im Raum <a href="https://matrix.to/#/#ffrn:ffrn.de">#ffrn:ffrn.de</a>. Weitere Infos dazu bekommst du <a href="https://blog.ffrn.de/ffrn-matrix-raum/">hier</a>.</p>
+    <p>Wir verwenden als Chatlösung für den schnellen Kontakt Matrix. Du findest uns beispielsweise im Raum <a href="https://matrix.to/#/#ffrn:ffrn.de">#ffrn:ffrn.de</a>. Weitere Infos dazu bekommst du <a href="/news/ffrn-matrix-raum/">hier</a>.</p>
 </div>
 </div>
 &nbsp;
