@@ -1,0 +1,8 @@
+<div style="text-align:center">
+    <video class="video-shortcode" preload="{{ .Get "preload" }}" controls style="text-align:center">
+        <source src="{{ .Get "src" }}" type="{{ .Get "type" }}">
+        There should have been a video here but your browser does not seem
+        to support it.
+    </video>
+    <br>Source: <a href="{{ .Get "source-url" }}">{{ .Get "source-title" }}</a>
+</div>

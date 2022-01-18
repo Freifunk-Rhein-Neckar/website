@@ -8,7 +8,8 @@ Ist eines dieser Geräte mit dem Internet verbunden, „teilt“ es seine Intern
 
 **Hier ein Video von freifunk.net:**
 
-{{< vimeo 64814620 >}}
+{{< video src="/videos/freifunk.mp4" type="video/mp4" preload="metadata" source-title="vimeo.com/kosmonautensofa" source-url="https://vimeo.com/64814620" >}}
+
 
 ### Wie funktioniert Freifunk?
 Im Prinzip stellt jeder Teilnehmer einen oder mehrere Freifunk-Router auf, welche sich mit Hilfe ihrer speziellen Software (der Freifunk-Firmware) miteinander kommunizieren können. Stehen zwei Freifunk-Router in Reichweite, fangen sie automatisch an miteinander zu kommunizieren. Kommen weitere Freifunk-Router in deren Reichweite hinzu, beginnen auch diese mit den bereits vorhandenen Routen Kontakt aufzunehmen und erweitern so das Netz. Auf der [Karte](https://map.ffrn.de/) siehst du, ob in deiner Nähe schon ein Freifunk-Router steht und auf dem Graphen kannst du sehen welche Freifunk-Router momentan untereinander verbunden sind. Stellt nun noch jemand einen Teil seines Internetanschlusses bereit, können sich die Router, welche mit ihm verbunden sind ebenfalls mit dem Internet verbinden und alle Geräte die sich in Reichweite der Router befinden können sich über das Freifunk-Netzwerk mit dem Internet verbinden.
