@@ -8,7 +8,7 @@ Ist eines dieser Geräte mit dem Internet verbunden, „teilt“ es seine Intern
 
 **Hier ein Video von freifunk.net:**
 
-{{< video src="/videos/freifunk.mp4" type="video/mp4" preload="metadata" source-title="vimeo.com/kosmonautensofa" source-url="https://vimeo.com/64814620" >}}
+{{< video src="/videos/freifunk.mp4" type="video/mp4" preload="metadata" source-title="Freifunk verbindet! von Philipp Seefeldt" source-url="https://vimeo.com/64814620" >}}
 
 
 ### Wie funktioniert Freifunk?
