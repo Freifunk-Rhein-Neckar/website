@@ -21,9 +21,10 @@ app.View.Map = function ($, mapID) {
       map = L.map(mapID, options).setView([49.47704787438876, 8.5638427734375]);
 
       // + Set the tile Layer and add to map.
-      //L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-      // L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
-      L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png', {
+      // L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+      //L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
+      //L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png', {
+      L.tileLayer('https://tiles.ffrn.de/light_all/{z}/{x}/{y}.png', {
         attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors <br/> Map tiles by CartoDB, under CC BY 3.0. Data by OpenStreetMap, under ODbL.'
       }).addTo(map);
 
