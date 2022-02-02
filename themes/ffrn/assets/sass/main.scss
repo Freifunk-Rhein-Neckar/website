@@ -69,13 +69,13 @@ nav ul li a:hover {
   text-align: center;
 }
 @media (min-width: 992px){
-.container.main {
-  min-height: calc(100% - 100px);
-  margin-top: 100px;
+  .container.main {
+    min-height: calc(100% - 100px);
+    margin-top: 100px;
 
-}
+  }
   h1 {
-      font-size: 36px;
+    font-size: 36px;
   }
 }
 
@@ -119,7 +119,7 @@ nav ul li a:hover {
 }
 
 footer {
-  margin-top: 20px;
+  //margin-top: 20px;
   background: #262626;
   color: #818181;
 }
@@ -226,20 +226,20 @@ footer .footer-social i {
 
 /* Seite mitmachen.html */
 .iban{
-padding: 0 2px;
+  padding: 0 2px;
 }
 
 dl.bank dd {
-display: inline;
-margin: 0;
+  display: inline;
+  margin: 0;
 }
 dl.bank dd:after{
-display: block;
-content: '';
+  display: block;
+  content: '';
 }
 dl.bank dt{
-display: inline-block;
-min-width: 100px;
+  display: inline-block;
+  min-width: 100px;
 }
 
 /* Bootsrap überschreiben */
@@ -275,40 +275,40 @@ min-width: 100px;
 
 @media (min-width: 992px){
   h1 {
-      font-size: 36px;
+    font-size: 36px;
   }
-.navbar-brand img {
-  height: 90px;
-}
+  .navbar-brand img {
+    height: 90px;
+  }
 
-#index .navbar-default {
-  background: none;
-  border: none;
-}
+  #index .navbar-default {
+    background: none;
+    border: none;
+  }
 
-.navbar-nav>li>a {
-  line-height: 100px;
-  padding: 0 15px;
-}
+  .navbar-nav>li>a {
+    line-height: 100px;
+    padding: 0 15px;
+  }
 
-.navbar-default .navbar-nav>.active>a,
-.navbar-default .navbar-nav>.active>a:hover,
-.navbar-default .navbar-nav>.active>a:focus {
-  color: #222;
-  background: none;
-}
-.pull {
-  float: right;
-}
-.blur {
-  height: 100px;
-  -webkit-filter: blur(40px);
-  -moz-filter: blur(40px);
-  -ms-filter: blur(40px);
-  -o-filter: blur(40px);
-  filter: blur(40px);
-  background: rgba(250,250,250,0.9)!important;
-}
+  .navbar-default .navbar-nav>.active>a,
+  .navbar-default .navbar-nav>.active>a:hover,
+  .navbar-default .navbar-nav>.active>a:focus {
+    color: #222;
+    background: none;
+  }
+  .pull {
+    float: right;
+  }
+  .blur {
+    height: 100px;
+    -webkit-filter: blur(40px);
+    -moz-filter: blur(40px);
+    -ms-filter: blur(40px);
+    -o-filter: blur(40px);
+    filter: blur(40px);
+    background: rgba(250,250,250,0.9)!important;
+  }
 
 }
 
@@ -372,9 +372,9 @@ div.navigation {
 }
 
 .older {
-float: right;
-width: 50%;
-text-align: right;
+  float: right;
+  width: 50%;
+  text-align: right;
 }
 
 .blog img {

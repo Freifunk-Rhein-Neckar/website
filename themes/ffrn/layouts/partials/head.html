@@ -1,10 +1,9 @@
 <head>
     <meta charset="UTF-8">
     <title> {{- if .IsHome -}} {{ .Site.Title }} {{- else }} {{ .Title }} | {{ .Site.Title }} {{- end -}} </title>
-    {{ $style := resources.Get "sass/main.scss" | resources.ExecuteAsTemplate "style.main.scss" . | resources.ToCSS | resources.Minify | resources.Fingerprint }}
-    <link rel="stylesheet" href="{{ $style.Permalink }}">
+    {{- $style := resources.Get "sass/main.scss" | resources.ExecuteAsTemplate "style.main.scss" . | resources.ToCSS | resources.Minify | resources.Fingerprint }}
 
-    {{ range .AlternativeOutputFormats -}}
+    {{- range .AlternativeOutputFormats -}}
     {{ printf `<link rel="%s" type="%s+%s" href="%s" title="%s" />` .Rel .MediaType.Type .MediaType.FirstSuffix.Suffix .Permalink $.Site.Title | safeHTML }}
     {{ end -}}
 
@@ -17,6 +16,8 @@
     <link rel="stylesheet" type="text/css" href="/css/styles.css">
     <script src="/js/PruneCluster.js"></script>
     <script src="/js/easy-button.js"></script>
+
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
 
     <link rel="apple-touch-icon" sizes="57x57" href="/images/icon/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/images/icon/apple-icon-60x60.png">
@@ -37,5 +38,4 @@
     <meta name="theme-color" content="#ffffff">
 
     <meta name="description" content="Herzlich Willkommen bei Freifunk Rhein-Neckar! Wir sind ein Community-Projekt zum Aufbau von freien, dezentralen WLAN-Netzwerken in der Metropolregion Rhein-Neckar.">
-
 </head>
