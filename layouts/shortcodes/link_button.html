@@ -1,0 +1,1 @@
+<a href="{{ .Get "href" | safeURL }}" {{ if (.Get "class") }} class="{{ .Get "class" }}"{{ end }}{{ if (.Get "target") }} target="{{ .Get "target" }}"{{ end }}{{ if (.Get "target") }} target="{{ .Get "target" }}"{{ end }}>{{ .Inner }}</a>

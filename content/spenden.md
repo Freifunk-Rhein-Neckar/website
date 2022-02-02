@@ -17,13 +17,22 @@ Dafür gibt es zwei Möglichkeiten:
 
 ## Überweisung
 
-Du kannst uns einmalig, aber auch sehr gerne regelmäßig, Geld auf das folgende Konto überweisen:
+Du kannst uns einmalig, aber sehr gerne auch regelmäßig, Geld auf das folgende Konto überweisen:
 
 {{< bank >}}
 
 Für Spenden unter 300 € sollte in der Regel keine Zuwendungsbestätigung nötig sein. Wenn Du eine solche benötigst, kannst Du dich gerne unter [kassenwart@ffrn.de](mailto:kassenwart@ffrn.de) melden.
 
-## Spendenformular
+## Betterplace
 
-Am einfachsten geht das Spenden aber über unser [Spendenformular bei Betterplace](https://www.betterplace.org/de/projects/20723-freifunk-rhein-neckar-freies-wlan-im-rhein-neckar-gebiet). Dort bekommst du am Ende des Jahres auch automatisch eine Spendenbescheinigung für alle deine Spenden.  
-Für diesen Service fallen jedoch geringe Transaktionskosten an.
+Eine größere Auswahl an Zahlungsdienstleistern gibt es über unser
+[Projekt](https://www.betterplace.org/de/projects/20723-freifunk-rhein-neckar-freies-wlan-im-rhein-neckar-gebiet)
+auf [betterplace.org](https://www.betterplace.org/). Dort bekommst du am Ende des Jahres auch automatisch eine 
+Spendenbescheinigung für alle deine Spenden. Für deren Service fallen jedoch geringe Transaktionskosten an.
+
+{{< linebreak >}}
+{{< center >}}
+{{< link_button class="btn btn-success" href="https://www.betterplace.org/de/donate/platform/projects/20723" target="_blank" >}}
+Jetzt Spenden{{< linebreak >}}{{% small %}}(über betterplace.org){{< /small >}}
+{{< /link_button >}}
+{{< /center >}}
