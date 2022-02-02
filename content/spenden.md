@@ -26,7 +26,4 @@ Für Spenden unter 300 € sollte in der Regel keine Zuwendungsbestätigung nöt
 ## Spendenformular
 
 Am einfachsten geht das Spenden aber über unser [Spendenformular bei Betterplace](https://www.betterplace.org/de/projects/20723-freifunk-rhein-neckar-freies-wlan-im-rhein-neckar-gebiet). Dort bekommst du am Ende des Jahres auch automatisch eine Spendenbescheinigung für alle deine Spenden.  
-Hier fallen aber geringe Transaktionskosten an.
-
-
-{{< betterplace >}}
+Für diesen Service fallen jedoch geringe Transaktionskosten an.
