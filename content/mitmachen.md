@@ -17,7 +17,7 @@ Bei Fragen kannst du auch gerne [Kontakt](/kontakt/) mit uns aufnehmen.
 
 Dann installierst du Freifunk auf diesem Gerät. Wir haben dafür [eine Anleitung](https://wiki.ffrn.de/Kurzanleitung) sowie [ein Videotutorial](https://youtu.be/d9tGLfzIAoA) für dich vorbereitet. Solltest du trotzdem auf Probleme stoßen, helfen wir dir [in unserem Forum](http://forum.ffrn.de) gerne weiter.
 
-{{< youtube d9tGLfzIAoA >}}
+{{< video src-webm="/videos/router-einrichten.webm" src-mp4="/videos/router-einrichten.mp4" poster="/images/router-einrichten.png" preload="none" source-title="Wie man einen Freifunk-Router einrichtet" source-url="https://www.youtube.com/watch?v=d9tGLfzIAoA" >}}
 
 ## Vorteile
 **Freifunk ist frei und kostenlos**, sowohl für den Betreiber als auch für den Nutzer. Es gibt keine Registrierung, Anmeldung, Voucher-Codes oder ähnliches. Du brauchst nur einen Internetanschluss und kompatiblen Router, den du im Laden deiner Wahl kaufst. Zu den einmaligen Kosten für den Router kommen keinerlei weitere Kosten hinzu! Wir sind ein gemeinnütziger, nicht gewinnorientierter Verein und vertreiben selbst keine Geräte.

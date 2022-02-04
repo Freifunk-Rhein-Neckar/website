@@ -2,3 +2,5 @@
 /resources/_gen/
 /.hugo_build.lock
 /.idea/
+/static/videos/*
+!/static/videos/.keep
