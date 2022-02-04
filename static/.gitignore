@@ -1,2 +1,4 @@
 info.txt
 .well-known/openpgpkey/hu/
+/videos/*
+!/videos/.keep
