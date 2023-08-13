@@ -25,13 +25,13 @@ Du kannst uns dabei über verschiedene Wege erreichen:
 ### Social Media
 
 <div class="col-sm-6 mailform">
-    <h4><i class="fab fa-twitter"></i> Twitter</h4>
-    <p>Auf Twitter sind wir über den Account <a target="_blank" href="https://twitter.com/FFRheinNeckar">@FFRheinNeckar</a> unterwegs.</p><br>
+    <h4><i class="fab fa-mastodon"></i> Mastodon</h4>
+    <p>Unser gemeinsamer Mastodon Account ist <a target="_blank" href="https://chaos.social/@ffrn">@ffrn@chaos.social</a>.</p><br>
     <br>
 </div>
 <div class="col-sm-6">
-    <h4><i class="fab fa-mastodon"></i> Mastodon</h4>
-    <p>Unser gemeinsamer Mastodon Account ist <a target="_blank" href="https://chaos.social/@ffrn">@ffrn@chaos.social</a>.</p><br>
+    <h4><i class="fab fa-twitter"></i> Twitter</h4>
+    <p>Auf Twitter sind wir über den Account <a target="_blank" href="https://twitter.com/FFRheinNeckar">@FFRheinNeckar</a> unterwegs.</p><br>
 </div>
 
 &nbsp;
